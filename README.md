@@ -1,4 +1,6 @@
 # Raylib-Template-cmake
+C++ (idk why theres 99% c)
+
 This is a raylib template for anyone wanting to use raylib on windows (maybe eve mac but 100% sure)
 (note: I have only tried this using vs code)
 
