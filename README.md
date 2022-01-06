@@ -3,6 +3,7 @@ This is a raylib template for anyone wanting to use raylib on windows (maybe eve
 (note: I have only tried this using vs code)
 
 When configuring it will create a build file
+
 First time compile and configuring will take a bit as it needs to download some dependencies. Which means I think,
 Key word: 'think', you dont need to download raylib before hand
 
