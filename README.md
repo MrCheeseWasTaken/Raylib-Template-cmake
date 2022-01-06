@@ -1,5 +1,6 @@
 # Raylib-Template-cmake
-This is a raylib template for anyone wanting to use raylib on windows
+This is a raylib template for anyone wanting to use raylib on windows (maybe eve mac but 100% sure)
+(note: I have only tried this using vs code)
 
 When configuring it will create a build file
 First time compile and configuring will take a bit as it needs to download some dependencies. Which means I think,
